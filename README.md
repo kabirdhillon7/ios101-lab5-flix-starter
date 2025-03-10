@@ -1,23 +1,27 @@
-# ios101-lab5-flix1
+## Lab 5: Flix Feed
 
-## iOS 101: Lab - Unit 5 - Flix Pt 1 (Feed)
+### Overview
 
-![16_app_required_features](https://user-images.githubusercontent.com/11927517/223374834-93edad78-9273-45d1-9d42-50ece5bb5b51.gif)
+This is the project for [CodePath's](https://www.codepath.org) [iOS 101](https://www.codepath.org/courses/ios-development) Lab 5 Flix Feed
 
-### Required Features
+## Table of Contents
 
-### 🎯 Goals
+- [Requirements](#requirements)
+- [Demo](#demo)
+- [Contact](#contact)
 
-By the end of this lab you will be able to...
+## Requirements
 
-1. Fetch a an array of data objects from an API
-1. Display a list of objects in a table view
-1. Load and display remote images given a URL
+- iOS 16.2 or later
+- iPhone 8 or newer
 
-### Features
+### Demo
+![Simulator Screen Recording - iPhone 16 Pro - 2025-03-10 at 16 44 35](https://github.com/user-attachments/assets/eebca2d8-11d3-4c05-a233-72b7f4995908)
 
-#### Required Features
 
-1. Fetch movie data from The Movie DB API
-1. Display movies scrolling list of movies fetched from the TMDB API.
-   1. Each movie in the list should display the movie’s poster image, title and description
+## Contact
+
+If you have any questions or feedback, you can reach me through the following channels:
+
+- GitHub: [@kabirdhillon7](https://github.com/kabirdhillon7)
+- LinkedIn: [Kabir Dhillon](https://www.linkedin.com/in/kabirdhillon/)
